@@ -5,6 +5,7 @@ lines = archivo.readlines()
 _lines = []
 for line in lines:
     _lines.append(int(line))
+
 lines = _lines
 _lines = []
 
